@@ -1,2 +1,3 @@
 # Synthetix_Hackathon_DigiCastro
 LT_SPICE Simulation
+Files:Synthetix_Hackathon.zip
