@@ -1,0 +1,2 @@
+# Synthetix_Hackathon_DigiCastro
+LT_SPICE Simulation
